@@ -6,7 +6,9 @@ html_document date: “2024-11-16” —
 
 
 R Markdown
+
 ##Assignment Instructions
+
 1.Code for reading in the dataset and/or processing the data 
 
 2.Histogram of the total number of steps taken each day
