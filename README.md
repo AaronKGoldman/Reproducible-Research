@@ -28,7 +28,7 @@ R Markdown
 
 ##Step 1 ##Code for reading in the dataset and/or processing the data
 
-# Set the working directory to the folder containing your file
+# Set the working directory to the folder containing the file
 setwd("C:/Users/milli/OneDrive/Desktop/")
 
 # Read the CSV file
