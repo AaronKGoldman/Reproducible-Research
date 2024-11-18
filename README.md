@@ -1,8 +1,10 @@
 title: “PA1_template” 
 
-author: Aaron Goldman output: 
+author: Aaron Goldman 
 
-html_document date: “2024-11-16” —
+output: html_document 
+
+date: “2024-11-16” —
 
 
 R Markdown
